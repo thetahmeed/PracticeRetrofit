@@ -12,4 +12,4 @@
                 .baseUrl("https://restcountries.eu/rest/v2/name/")               // For api request 7
                 .baseUrl("https://official-joke-api.appspot.com/jokes/")         // For api request 8
                 .baseUrl("http://api.alquran.cloud/v1/")                         // For api request 9
-                .baseUrl("http://localhost:8080/")                          // For api request 10
+                .baseUrl("http://localhost:8080/")                               // For api request 10

@@ -1,5 +1,6 @@
 # PracRetrofti
-## Here I called API's from 10 different website. And last one was my self made API
+
+## Here I called API's from 9 different website:
 
                 // here is the list of those API's:
                 .baseUrl("https://jsonplaceholder.typicode.com/")                // For api request 0
@@ -12,4 +13,3 @@
                 .baseUrl("https://restcountries.eu/rest/v2/name/")               // For api request 7
                 .baseUrl("https://official-joke-api.appspot.com/jokes/")         // For api request 8
                 .baseUrl("http://api.alquran.cloud/v1/")                         // For api request 9
-                .baseUrl("http://localhost:8080/")                               // For api request 10
